@@ -175,7 +175,7 @@ groq
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone <[your-repository-url](https://github.com/OggyBoi08/AI-Telegram-Bot/)>
 cd <repository-directory>
 ```
 
