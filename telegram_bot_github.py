@@ -19,7 +19,7 @@ WAITING_FOR_INPUT: Final = 1
 
 #initialize groq
 groq_client = Groq(
-    api_key=os.environ.get("GROQ_API_KEY")    #Your groq API KEY need to be an environmental variable
+    api_key=os.environ.get("GROQ_API_KEY")    #Your groq API KEY needs to be an environmental variable
 )
 print("*** GROQ SUCCESSFULLY INITIALIZED ***")
 
