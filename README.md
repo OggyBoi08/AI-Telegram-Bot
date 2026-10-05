@@ -88,6 +88,8 @@ Unlike conversation memory, long-term memories are not removed by the attention 
 | `/display_memory` | Displays stored long-term memories |
 | `/delete_memory` | Deletes a selected long-term memory |
 
+Note: You will need to configure these commands in your telegram bot.
+
 ### Saving a Memory
 
 ```text
